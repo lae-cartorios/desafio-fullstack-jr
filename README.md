@@ -151,6 +151,10 @@ Você pode adaptar ou usar sua própria estrutura, desde que mantenha uma separa
 - [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/)
 - [Resumo: Clean Code e SOLID](https://www.linkedin.com/pulse/resumindo-clean-code-architecture-e-solid-bernardo-rodrigues/)
 
+### 🧪 Mocks para Testes
+
+- [Talões para Tests](./Bills/)
+
 ---
 
 ## 🤖 Sobre o uso de IA
