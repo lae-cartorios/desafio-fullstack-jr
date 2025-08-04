@@ -2,7 +2,7 @@
 
 Seja bem-vindo ao **Desafio Técnico da LAE Cartórios** para a vaga de **Desenvolvedor Fullstack Júnior**.
 
-O objetivo deste desafio é avaliar seu conhecimento técnico, sua organização e a forma como você lida com diferentes tipos de problemas em um tempo reduzido. O desafio pode parecer complexo à primeira vista, mas fique tranquilo: tudo foi pensado para que um desenvolvedor júnior consiga implementar após compreender bem as tarefas.
+O objetivo deste desafio é avaliar seu conhecimento técnico, sua organização e a forma como você lida com diferentes tipos de problemas em um tempo reduzido. O desafio pode parecer complexo à primeira vista, mas fique tranquilo: tudo foi pensado para que um desenvolvedor júnior consiga implementar após compreender bem as tarefas 😀.
 
 Ao final deste documento, deixei alguns **links úteis** que vão te ajudar a navegar pelo desafio com mais tranquilidade.
 
